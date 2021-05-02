@@ -5,7 +5,7 @@ Description: As a prospective web-developer, a well-made portfolio is a must.  T
 Website Link:  https://trb5160.github.io/Portfolio-2.0/
 Github Link: https://github.com/trb5160/Portfolio-2.0.git
 
-License:
+License: ![Alt text](./assets/images/portfolioScreenshot.png)
 
 Copyright (c) [2021] [Tom Barber]
 
